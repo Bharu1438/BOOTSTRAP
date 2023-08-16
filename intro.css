@@ -1,0 +1,21 @@
+.col{
+    background-color: skyblue;
+    border: 1px solid red;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.col-8{
+    background-color: skyblue;
+    border: 1px solid red;
+    height: 50px;
+    margin-right: 3px;
+    margin-top: 30px;
+    text-align: center;
+    padding-botto: 15px;
+}
+.container-fluid{
+    background-color: black;
+}
